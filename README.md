@@ -1,5 +1,5 @@
 # Form Storm Norm Perform
-## Présentation pour l'APP ISEP
+*Présentation pour l'APP ISEP*
 
 Sources:
 + [changingminds.org](http://changingminds.org/explanations/groups/form_storm_norm_perform.htm)
