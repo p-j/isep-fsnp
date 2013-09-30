@@ -1,7 +1,7 @@
 # Storm
 + Chacun prend ses aises
 + La distance polie du début s'estompe
-+ Les premiers non-dits commence à créer des tentions
++ Les premiers non-dits commencent à créer des tentions
 + Les positions de chacuns peuvent différer/s'opposer
 
 
