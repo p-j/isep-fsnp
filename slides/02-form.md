@@ -9,5 +9,5 @@ Note:
 
 + Periode de la lune de miel
 + Il faut plonger les timides dans le bain, ne pas les laisser à l'écart
-+ On peut utiliser des rituels
-+ Il faut expliquer ce qui doit être fait par l'équipe sans la noyer dans les détails
++ On peut utiliser des rituels pour faciliter la prise de contact
++ Il faut expliquer les objectifs de l'équipe sans la noyer dans les détails

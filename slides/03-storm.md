@@ -1,12 +1,12 @@
 # Storm
 + Chacun prend ses aises
-+ La politesse de départ s'atténue
++ La distance polie du début s'estompe
 + Les premiers non-dits commence à créer des tentions
-+ Les positions de chacuns peuvent différer
++ Les positions de chacuns peuvent différer/s'opposer
 
 
-# Storm
-+ Plusieurs leaders naturels
+## Circonstances aggravantes
++ Plusieurs meneur naturels
 + Rôles formels mal définis
 + Objectifs peu clair
 + Pression exterieur

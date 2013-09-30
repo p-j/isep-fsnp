@@ -1,5 +1,5 @@
 # Form Storm Norm Perform
-*Présentation pour l'APP ISEP*
+*Présentation pour l'APP ISEP 2013*
 
 Sources:
 + [changingminds.org](http://changingminds.org/explanations/groups/form_storm_norm_perform.htm)
@@ -11,7 +11,7 @@ Réalisé avec [reveal.js](https://github.com/hakimel/reveal.js)
 ---
 ## Comment visualiser la présentation ?
 + Solution simple : [http://p-j.github.io/isep-fsnp/](http://p-j.github.io/isep-fsnp/)
-+ Juste les sources : 
++ Juste les sources (avec les notes du présentateur) : 
   + [Hello](https://github.com/p-j/isep-fsnp/blob/master/slides/01-hello.md)
   + [Form](https://github.com/p-j/isep-fsnp/blob/master/slides/02-form.md)
   + [Storm](https://github.com/p-j/isep-fsnp/blob/master/slides/03-storm.md)
@@ -33,7 +33,7 @@ Réalisé avec [reveal.js](https://github.com/hakimel/reveal.js)
   + `$ grunt serve` (assembler les fichiers et lancer le server local pour afficher la présentation)
   + Puis naviguez vers [http://localhost:8000](http://localhost:8000) pour voir la présentation
 
-D'avantage d'information sur comment utiliser [reveal.js](https://github.com/hakimel/reveal.js) sont disponible sur le dépot officiel [hakimel/reveal.js](https://github.com/hakimel/reveal.js) (en anglais).
+D'avantage d'information sur comment utiliser [reveal.js](https://github.com/hakimel/reveal.js) sont disponibles sur le dépôt officiel [hakimel/reveal.js](https://github.com/hakimel/reveal.js) (en anglais).
 
 ## License
 MIT licensed

@@ -5,4 +5,4 @@
 
 Note:
 Une bonne équipe se comportera comme une bande d'amis ou une famille
-Il faut continuer a bien répartir le travail et a fixer des objectifs pour maintenir le niveau de performance.
+Il faut continuer à bien répartir le travail et à fixer des objectifs pour maintenir le niveau de performance.
