@@ -11,7 +11,10 @@ Réalisé avec [reveal.js](https://github.com/hakimel/reveal.js)
 ---
 ## Comment visualiser la présentation ?
 + Solution simple : [http://p-j.github.io/isep-fsnp/](http://p-j.github.io/isep-fsnp/)
-   Une fois sur la page, appuyé sur S pour voir les notes du présentateur, N pour passer au slide suivant, P pour revenir au précédent. Les fleches directionnelles peuvent également être utilisées, mais n'oubliez pas les slides verticaux !
+  + Une fois sur la page, appuyé sur `S` pour voir les notes du présentateur 
+   + `N` pour passer au slide suivant 
+   + `P` pour revenir au précédent. 
+   + Les fleches directionnelles peuvent également être utilisées, mais n'oubliez pas les slides verticaux !
 + Juste les sources (avec les notes du présentateur) : 
   + [Hello](https://github.com/p-j/isep-fsnp/blob/master/slides/01-hello.md)
   + [Form](https://github.com/p-j/isep-fsnp/blob/master/slides/02-form.md)
