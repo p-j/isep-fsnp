@@ -1,5 +1,5 @@
 # Perform
-+ Performance optimal
++ Performance optimale
 + Les différences personnelles sont maintenues sous contrôle
 + Équipe → Famille
 
