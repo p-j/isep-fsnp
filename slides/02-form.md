@@ -1,7 +1,7 @@
 # Form
 
 + Première rencontre
-+ Intéractions polies/formelle
++ Intéractions polies/formelles
 + Conversation exploratoire
 + Excitation liée à la nouveauté et à la découverte
 
