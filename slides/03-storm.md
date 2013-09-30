@@ -5,7 +5,7 @@
 + Les positions de chacuns peuvent différer/s'opposer
 
 
-## Circonstances aggravantes
+## Circonstances agravantes
 + Plusieurs meneur naturels
 + Rôles formels mal définis
 + Objectifs peu clair
