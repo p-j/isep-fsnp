@@ -10,8 +10,8 @@ Réalisé avec [reveal.js](https://github.com/hakimel/reveal.js)
 
 ---
 ## Comment visualiser la présentation ?
-
-+ Les slides sont consultables directement ici :
++ Solution simple : [http://p-j.github.io/isep-fsnp/](http://p-j.github.io/isep-fsnp/)
++ Juste les sources : 
   + [Hello](https://github.com/p-j/isep-fsnp/blob/master/slides/01-hello.md)
   + [Form](https://github.com/p-j/isep-fsnp/blob/master/slides/02-form.md)
   + [Storm](https://github.com/p-j/isep-fsnp/blob/master/slides/03-storm.md)
@@ -19,7 +19,7 @@ Réalisé avec [reveal.js](https://github.com/hakimel/reveal.js)
   + [Perform](https://github.com/p-j/isep-fsnp/blob/master/slides/05-perform.md)
   + [Conclusion](https://github.com/p-j/isep-fsnp/blob/master/slides/06-conclusion.md)
   + [Questions](https://github.com/p-j/isep-fsnp/blob/master/slides/07-questions.md)
-+ La présentation peut être reconstruite et consulté tel que lors de la présentation avec les outils suivant :
++ Pour les plus téméraires, la présentation peut être joué sur votre machine à l'aide des outils suivant :
   + [node](http://nodejs.org/)
   + [grunt](http://gruntjs.com/getting-started#installing-the-cli)
 + Une fois ces outils installés, la procédure suivante permet d'accéder à la présentation :
