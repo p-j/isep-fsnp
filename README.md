@@ -12,7 +12,6 @@ Réalisé avec [reveal.js](https://github.com/hakimel/reveal.js)
 ## Comment visualiser la présentation ?
 + Solution simple : [http://p-j.github.io/isep-fsnp/](http://p-j.github.io/isep-fsnp/)
 + Juste les sources : 
-
   + [Hello](https://github.com/p-j/isep-fsnp/blob/master/slides/01-hello.md)
   + [Form](https://github.com/p-j/isep-fsnp/blob/master/slides/02-form.md)
   + [Storm](https://github.com/p-j/isep-fsnp/blob/master/slides/03-storm.md)
@@ -20,7 +19,11 @@ Réalisé avec [reveal.js](https://github.com/hakimel/reveal.js)
   + [Perform](https://github.com/p-j/isep-fsnp/blob/master/slides/05-perform.md)
   + [Conclusion](https://github.com/p-j/isep-fsnp/blob/master/slides/06-conclusion.md)
   + [Questions](https://github.com/p-j/isep-fsnp/blob/master/slides/07-questions.md)
-+ Pour les plus téméraires, la présentation peut être joué sur votre machine à l'aide des outils suivant :
++ Cloner et regarder : 
+  + `$ cd /chemin/vers/votre/dossier/www`
+  + `$ git clone git@github.com:p-j/isep-fsnp.git` (clone le dépôt de la présentation)
+  + Naviguez vers [http://127.0.0.1/isep-fsnp](http://127.0.0.1/isep-fsnp)
++ Pour les curieux, la présentation peut être modifiée et réutilisée à l'aide des outils suivant :
   + [node](http://nodejs.org/)
   + [grunt](http://gruntjs.com/getting-started#installing-the-cli)
 + Une fois ces outils installés, la procédure suivante permet d'accéder à la présentation :
@@ -29,6 +32,8 @@ Réalisé avec [reveal.js](https://github.com/hakimel/reveal.js)
   + `$ npm install` (installer les dépendances)
   + `$ grunt serve` (assembler les fichiers et lancer le server local pour afficher la présentation)
   + Puis naviguez vers [http://localhost:8000](http://localhost:8000) pour voir la présentation
+
+D'avantage d'information sur comment utiliser [reveal.js](https://github.com/hakimel/reveal.js) sont disponible sur le dépot officiel [hakimel/reveal.js](https://github.com/hakimel/reveal.js) (en anglais).
 
 ## License
 MIT licensed
