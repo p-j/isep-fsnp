@@ -19,9 +19,10 @@ Réalisé avec [reveal.js](https://github.com/hakimel/reveal.js)
   + [Perform](https://github.com/p-j/isep-fsnp/blob/master/slides/05-perform.md)
   + [Conclusion](https://github.com/p-j/isep-fsnp/blob/master/slides/06-conclusion.md)
   + [Questions](https://github.com/p-j/isep-fsnp/blob/master/slides/07-questions.md)
-+ La présentation peut être reconstruite et consulté tel que lors de la présentation avec les outils suivant:
++ La présentation peut être reconstruite et consulté tel que lors de la présentation avec les outils suivant :
   + [node](http://nodejs.org/)
   + [grunt](http://gruntjs.com/getting-started#installing-the-cli)
++ Une fois ces outils installés, la procédure suivante permet d'accéder à la présentation :
   + `$ git clone git@github.com:p-j/isep-fsnp.git` (clone le dépôt de la présentation)
   + `$ cd isep-fsnp` (aller dans le dossier que l'on vient de créer)
   + `$ npm install` (installer les dépendances)
